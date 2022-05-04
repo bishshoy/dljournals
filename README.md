@@ -42,15 +42,15 @@
 |   The Journal of Supercomputing                              |   2.474   |   12.4  |           |
 |   Journal of Artificial Intelligence Research                |   2.441   |   12    |           |
 |   Journal of Real-Time Image Processing                      |   2.358   |   6.4   |           |
-|   Signal, Image and Video Processing                         |   2.157   |   17.4  |           |
+|   Signal, Image and Video Processing                         |   2.157   |   12.4  |           |
 |   Frontiers of Computer Science                              |   2.061   |   -     |           |
-|   Neural Computation                                         |   2.026   |   13    |           |
-|   Machine Vision and Applications                            |   2.012   |   23.2  |           |
+|   Neural Computation                                         |   2.026   |   8     |           |
+|   Machine Vision and Applications                            |   2.012   |   6.28  |           |
 |   Knowledge Discovery from Data                              |   2.01    |   8.7   |           |
-|   Multimedia Systems                                         |   1.935   |   11    |           |
+|   Multimedia Systems                                         |   1.935   |   3.28  |           |
 |   Journal of Mathematical Imaging and Vision                 |   1.627   |   11.5  |           |
 |   Journal of Computer Science and Technology                 |   1.571   |   18    |           |
-|   Journal of Signal Processing Systems                       |   1.348   |   8.7   |           |
+|   Journal of Signal Processing Systems                       |   1.348   |   8.71  |           |
 |   Pattern Recognition and Image Analysis                     |   1.24    |   -     |           |
 |   SN Computer Science                                        |   -       |   8.7   |           |
 |   Sensing and Imaging                                        |   -       |   6.5   |           |
