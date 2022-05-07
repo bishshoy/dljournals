@@ -19,7 +19,7 @@
 |   Information Sciences                                       |   6.795   |   14.3  |           |
 |   Applied Soft Computing                                     |   6.725   |   7.5   |           |
 |   Engineering Applications of Artificial Intelligence        |   6.212   |   7.6   |           |
-|   Neurocomputing                                             |   5.719   |   7     |           |
+|   Neurocomputing                                             |   5.719   |   6.3   |           |
 |   Neural Computing and Applications                          |   5.606   |   11    |           |
 |   Cognitive Computation                                      |   5.414   |   16.2  |           |
 |   Applied Intelligence                                       |   5.086   |   3.8   |           |
