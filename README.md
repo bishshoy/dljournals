@@ -45,7 +45,7 @@
 |   Journal of Real-Time Image Processing                      |   2.358   |    6.4  |           |
 |   Signal, Image and Video Processing                         |   2.157   |   12.4  |           |
 |   Frontiers of Computer Science                              |   2.061   |   ----  |           |
-|   Neural Computation                                         |   2.026   |    8    |           |
+|   Neural Computation                                         |   2.207   |    8    |           |
 |   Machine Vision and Applications                            |   2.012   |    6.3  |           |
 |   Knowledge Discovery from Data                              |   2.010   |    8.7  |           |
 |   Multimedia Systems                                         |   1.935   |    3.3  |           |
