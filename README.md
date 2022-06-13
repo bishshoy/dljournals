@@ -16,6 +16,7 @@
 |   International Journal of Computer Vision                   |   7.410   |   12    |           |
 |   IEEE/Knowledge and Data Engineering                        |   6.977   |    8    |           |
 |   Expert Systems with Applications                           |   6.954   |   29.5  |           |
+|   IEEE/Selected Topics in Signal Processing                  |   6.856   |         |           |
 |   Information Sciences                                       |   6.795   |   14.3  |           |
 |   Applied Soft Computing                                     |   6.725   |    7.5  |           |
 |   Engineering Applications of Artificial Intelligence        |   6.212   |    7.6  |           |
