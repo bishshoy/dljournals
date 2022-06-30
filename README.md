@@ -74,3 +74,8 @@
 |   ACCV        |   B     |
 |   DAS         |   B     |
 |   ACPR        |   -     |
+
+# More resources
+https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence
+
+https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
