@@ -25,7 +25,7 @@
 |   Cognitive Computation                                      |   5.414   |   16.2  |           |
 |   Applied Intelligence                                       |   5.086   |    3.8  |           |
 |   IEEE/Automation Science and Engineering                    |   5.083   |   12    |           |
-|   Nature - Scientific Reports                                |   4.380   |    9.3  | OpenAccess|
+|   Nature - Scientific Reports                                |   4.380   |    9.3  |Open Access|
 |   International Journal of Machine Learning and Cybernetics  |   4.012   |    9.9  |           |
 |   Measurement                                                |   3.927   |    7    |           |
 |   Computer Vision and Image Understanding                    |   3.876   |    8.8  |           |
