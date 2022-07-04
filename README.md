@@ -54,7 +54,7 @@
 |   Journal of Computer Science and Technology                 |   1.571   |   18    |           |
 |   Journal of Signal Processing Systems                       |   1.348   |    8.7  |           |
 |   Pattern Recognition and Image Analysis                     |   1.240   |   ----  |           |
-|   SN Computer Science                                        |   -       |    8.7  |           |
+|   SN Computer Science                                        |   -       |    8    |           |
 |   Sensing and Imaging                                        |   -       |    6.5  |           |
 |   Machine Intelligence Research                              |   -       |   ----  |           |
 
