@@ -79,3 +79,7 @@
 https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence
 
 https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
+
+https://www.scopus.com/sources.uri
+
+https://www.scijournal.org/
