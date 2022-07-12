@@ -50,8 +50,8 @@
 |   Machine Vision and Applications                            |   2.012   |    6.3  |           |
 |   Knowledge Discovery from Data                              |   2.010   |    8.7  |           |
 |   Multimedia Systems                                         |   1.935   |    3.3  |           |
+|   Journal of Computer Science and Technology                 |   1.871   |   18    |           |
 |   Journal of Mathematical Imaging and Vision                 |   1.627   |   11.5  |           |
-|   Journal of Computer Science and Technology                 |   1.571   |   18    |           |
 |   Journal of Signal Processing Systems                       |   1.348   |    8.7  |           |
 |   Pattern Recognition and Image Analysis                     |   1.240   |   ----  |           |
 |   SN Computer Science                                        |   -       |    8    |           |
