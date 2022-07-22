@@ -60,7 +60,7 @@
 
 ---
 
-## <ins>C % ratings</ins>
+# C % ratings
 
 0/5 - None exists
 
