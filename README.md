@@ -58,6 +58,24 @@
 | SN Computer Science                                       | 0.0  | 8    | In Scopus   | 1/5 |
 | Machine Intelligence Research                             | N/A  | ---- |             | 5/5 |
 
+---
+
+## <ins>C % ratings</ins>
+
+0/5 - None exists
+
+1/5 - Very few exists (something like 5 out of 100s)
+
+2/5 - Few exists but noticeable (something like 15 out of 100)
+
+3/5 - A lot of them (like 20-30 out of 100)
+
+4/5 - Many exist (half or even more)
+
+5/5 - Full board C (90% or more)
+
+---
+
 # Conferences
 
 |   Conference  |   Rank  |
