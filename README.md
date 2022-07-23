@@ -1,6 +1,6 @@
 # Journals for Deep Learning research
 
-| Journal                                                   | IF   | ETA  | Info        | C % |
+| Journal                                                   | IF   | ETA  | Info        | D % |
 | --------------------------------------------------------- | ---- | ---- | ----------- | --- |
 | Pattern Analysis and Machine Intelligence                 | 24.3 | 16.8 |             | 2/5 |
 | IEEE/Cybernetics                                          | 19.1 | 12   |             | 3/5 |
@@ -60,19 +60,19 @@
 
 ---
 
-# C % ratings
+# D % ratings
 
-0/5 - None exists
+0/5 - Absolute zero
 
-1/5 - Very few exists (something like 5 out of 100s)
+1/5 - A little something (5%)
 
-2/5 - Few exists but noticeable (something like 15 out of 100)
+2/5 - Noticeable (15%)
 
-3/5 - A lot of them (like 20-30 out of 100)
+3/5 - A lot (30%)
 
-4/5 - Many exist (half or even more)
+4/5 - Wayyy too many (>50%)
 
-5/5 - Full board C (90% or more)
+5/5 - Full infestation (>90%)
 
 ---
 
