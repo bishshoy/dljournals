@@ -69,7 +69,7 @@
 
 2/5 - Noticeable (15%)
 
-3/5 - A lot (30%)
+3/5 - A lot (20-30%)
 
 4/5 - Wayyy too many (>50%)
 
