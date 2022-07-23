@@ -35,6 +35,7 @@
 | Image and Vision Computing                                | 3.8  | 2.9  |             | 1/5 |
 | Signal Processing: Image Communication                    | 3.4  | 7.4  |             | 4/5 |
 | Signal Processing Letters                                 | 3.2  | 4.2  | Yearly      | 3/5 |
+| IEEE/Computers                                            | 3.1  | 24   |             |     |
 | Machine Vision and Applications                           | 2.9  | 6.3  |             | 2/5 |
 | Journal of Visual Communication and Image Representation  | 2.8  | 8.7  |             | 3/5 |
 | The Visual Computer                                       | 2.8  | 7.8  |             | 4/5 |
