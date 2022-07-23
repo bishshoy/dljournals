@@ -61,7 +61,7 @@
 
 ---
 
-# D % ratings
+# D% ratings
 
 0/5 - Absolute zero
 
